@@ -34,3 +34,10 @@ Quer fazer parte dessa comunidade? Existem várias formas de contribuir:
 * Ainda está na fase de desenvolvimento
 * **Como posso entrar em contato com a equipe do projeto?**
 * Entre em contato através do email: patriandeson.corp@gmail.com
+* **Link do Projeto: https://autismo-fawn.vercel.app/**
+
+* **Etapas do proojeto**
+* Após uma série de 05 aulas sobre html e Java Script básico através da Alura, foi lançado o desafio de aplicação do conteúdo ensinado.
+* Dessa forma, esse projeto foi desenvolvido até o atual estado em uma única tarde, com auxilo do google Gemini, disponibilizado pela plataforma do google.
+* O mesmo apresenta ainda algumas falhas que serão corrigidas ao longo do tempo. Falhas estas que são devido a minha pouca disponibilidade de tempo.
+* Mas creio que a idéia central e de extrema relevância e aolicação real, o que me motiva a continunar nesse a desenvolver essa aplicação.
